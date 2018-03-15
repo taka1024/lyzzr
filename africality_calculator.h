@@ -3,7 +3,7 @@
 #ifndef AFRICALITY_CALCULATOR_H
 #define AFRICALITY_CALCULATOR_H
 
-const bool IS_VERBOSE = true;
+const bool IS_VERBOSE = false;
 
 // Overall Probabilities of 3 types of cards
 const int P_BASE = 100;
